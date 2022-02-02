@@ -1,0 +1,46 @@
+C:\Users\figit\Documents\Studijas\Programmesana 2\Darbi\KursaDarbs\KursaDarbs\bin\Debug\KursaDarbs.exe.config
+C:\Users\figit\Documents\Studijas\Programmesana 2\Darbi\KursaDarbs\KursaDarbs\bin\Debug\KursaDarbs.exe
+C:\Users\figit\Documents\Studijas\Programmesana 2\Darbi\KursaDarbs\KursaDarbs\bin\Debug\KursaDarbs.pdb
+C:\Users\figit\Documents\Studijas\Programmesana 2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.csprojAssemblyReference.cache
+C:\Users\figit\Documents\Studijas\Programmesana 2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.mnuMainMenu.resources
+C:\Users\figit\Documents\Studijas\Programmesana 2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.Properties.Resources.resources
+C:\Users\figit\Documents\Studijas\Programmesana 2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.csproj.GenerateResource.cache
+C:\Users\figit\Documents\Studijas\Programmesana 2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.csproj.CoreCompileInputs.cache
+C:\Users\figit\Documents\Studijas\Programmesana 2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.exe
+C:\Users\figit\Documents\Studijas\Programmesana 2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.pdb
+C:\Users\figit\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\bin\Debug\KursaDarbs.exe.config
+C:\Users\figit\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\bin\Debug\KursaDarbs.exe
+C:\Users\figit\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\bin\Debug\KursaDarbs.pdb
+C:\Users\figit\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.csprojAssemblyReference.cache
+C:\Users\figit\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.Game.resources
+C:\Users\figit\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.mnuMainMenu.resources
+C:\Users\figit\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.Properties.Resources.resources
+C:\Users\figit\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.csproj.GenerateResource.cache
+C:\Users\figit\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.csproj.CoreCompileInputs.cache
+C:\Users\figit\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.exe
+C:\Users\figit\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.pdb
+C:\Users\figit\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.frmScore.resources
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs1\KursaDarbs\bin\Debug\KursaDarbs.exe.config
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs1\KursaDarbs\bin\Debug\KursaDarbs.exe
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs1\KursaDarbs\bin\Debug\KursaDarbs.pdb
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs1\KursaDarbs\obj\Debug\KursaDarbs.csprojAssemblyReference.cache
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs1\KursaDarbs\obj\Debug\KursaDarbs.Game.resources
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs1\KursaDarbs\obj\Debug\KursaDarbs.mnuMainMenu.resources
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs1\KursaDarbs\obj\Debug\KursaDarbs.Properties.Resources.resources
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs1\KursaDarbs\obj\Debug\KursaDarbs.frmScore.resources
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs1\KursaDarbs\obj\Debug\KursaDarbs.csproj.GenerateResource.cache
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs1\KursaDarbs\obj\Debug\KursaDarbs.csproj.CoreCompileInputs.cache
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs1\KursaDarbs\obj\Debug\KursaDarbs.exe
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs1\KursaDarbs\obj\Debug\KursaDarbs.pdb
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\bin\Debug\KursaDarbs.exe.config
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\bin\Debug\KursaDarbs.exe
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\bin\Debug\KursaDarbs.pdb
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.csprojAssemblyReference.cache
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.Game.resources
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.mnuMainMenu.resources
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.Properties.Resources.resources
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.frmScore.resources
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.csproj.GenerateResource.cache
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.csproj.CoreCompileInputs.cache
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.exe
+D:\Documents\Studijas\Programmesana2\Darbi\KursaDarbs\KursaDarbs\obj\Debug\KursaDarbs.pdb
